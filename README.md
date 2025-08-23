@@ -136,30 +136,7 @@ Machine Learning is a subset of artificial intelligence that enables computers t
 | **RMSE** | Same units as target | Most common |
 | **R-squared** | Explained variance | 0-1 scale, higher better |
 
-## NumPy Fundamentals
 
-### Key Concepts
-• **N-dimensional arrays** - Efficient storage and computation
-
-• **Broadcasting** - Operations on arrays of different shapes
-
-• **Vectorization** - Apply operations to entire arrays at once
-
-• **Performance** - Much faster than pure Python for numerical operations
-
-### Essential Operations
-
-• **Creation** - Arrays from lists, zeros, ones, ranges
-
-• **Attributes** - Shape, data type, size, dimensions
-
-• **Mathematics** - Element-wise operations, aggregations
-
-• **Indexing** - Access elements, slicing, boolean indexing
-
-• **Reshaping** - Change array dimensions without copying data
-
-## When to Use Machine Learning
 
 
 
