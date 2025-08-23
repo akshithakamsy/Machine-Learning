@@ -34,6 +34,7 @@ Machine Learning is a subset of artificial intelligence that enables computers t
 
 • Has known correct answers during training
 
+
 #### Classification (Discrete Categories)
 
 • **Purpose**: Predicts discrete categories or classes
@@ -67,16 +68,19 @@ Machine Learning is a subset of artificial intelligence that enables computers t
   - Market basket analysis (items bought together)
   - Anomaly detection (fraud detection)
   - Data compression and dimensionality reduction
-  - 
+    
 • **Algorithms**: K-Means Clustering, Hierarchical Clustering, PCA
 
 #### Reinforcement Learning (Learning through Trial)
+
 • **Purpose**: Learning through interaction and feedback
+
 • **Examples**:
   - Game playing (Chess, Go, video games)
   - Robot navigation and control
   - Trading algorithms
   - Recommendation system optimization
+  - 
 • **Algorithms**: Q-Learning, Policy Gradient, Actor-Critic
 
 ## CRISP-DM Methodology
@@ -91,7 +95,6 @@ Machine Learning is a subset of artificial intelligence that enables computers t
 | **6. Deployment** | Put model into production | • Deploy model<br>• Monitor performance<br>• Maintain system |
 
 ## Model Selection Process
-
 ### Key Steps
 • **Problem Definition** - Classification vs Regression, performance requirements
 
@@ -158,31 +161,7 @@ Machine Learning is a subset of artificial intelligence that enables computers t
 
 ## When to Use Machine Learning
 
-### Good Candidates for ML
 
-• Complex patterns difficult to code manually
-
-• Large amounts of historical data available
-
-• Need for system to adapt as conditions change
-
-• Problems where traditional programming fails
-
-• Pattern recognition tasks
-
-• Prediction and forecasting needs
-
-### Poor Candidates for ML
-
-• Simple rule-based logic sufficient
-
-• Limited or no historical data
-
-• Deterministic calculations required
-
-• High interpretability requirements
-
-• Real-time constraints with simple logic
 
 ## Key Components of Supervised Learning
 
